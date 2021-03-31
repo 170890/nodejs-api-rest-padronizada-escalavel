@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-api-rest-padronizada-escalavel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/170890/nodejs-api-rest-padronizada-escalavel.git"
+  },
+  "author": "Bruno Fonseca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/170890/nodejs-api-rest-padronizada-escalavel/issues"
+  },
+  "homepage": "https://github.com/170890/nodejs-api-rest-padronizada-escalavel#readme"
+}
